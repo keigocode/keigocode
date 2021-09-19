@@ -1,0 +1,3 @@
+- Hey hola soy KeigoCode, desarrollador y manager.
+- Creador del bot MordeKayh(codigo abierto).
+- Maestro en programación de Java y python.
